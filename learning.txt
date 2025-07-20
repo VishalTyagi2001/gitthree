@@ -1,1 +1,9 @@
 -> use the command git remote add origin (repo https url) then git remote -vf
+   . use the command git branch -M main to change the branch name
+
+
+
+always remember to open the folder in warp before pushing the code
+   1.set the url of your repo using this command //
+   git remote add origin https://github.com/VishalTyagi2001/gitthree.git
+   2.git push origin main karke push kar do 
