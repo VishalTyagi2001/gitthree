@@ -6,4 +6,4 @@
 always remember to open the folder in warp before pushing the code
    1.set the url of your repo using this command //
    git remote add origin https://github.com/VishalTyagi2001/gitthree.git
-   2.git push origin main karke push kar do 
+   2.git push origin main karke push kar do // insted git push origin main use the command// git push -u origin main so that in future our code will be pushed directly using git push command
